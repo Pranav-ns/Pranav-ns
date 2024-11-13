@@ -11,7 +11,7 @@
   Brain Tumor & Breast Cancer Detection Systems
     Using machine learning and computer vision to build accessible, accurate detection models for early diagnosis.
 
-  Affordable IoT Water Level Controller
+  Affordable Water Level Controller
     Aiming to make water level controllers accessible to all households, providing a low-cost solution for water conservation and efficiency.
 
   Research on AI Laws and ethics, Information retrival system and self driving cars
