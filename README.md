@@ -18,6 +18,7 @@
     - Diving into AI ethics and policy development to explore and contribute toward shaping future AI legislation.
     - Exploring advanced techniques in information retrieval systems to enhance the accuracy and efficiency of search engine algorithms.
     - Developing a neural network-based system for self-driving cars that detects driver consciousness and triggers an alert siren if the driver becomes unresponsive, enhancing in-vehicle safety.
+
 🧑‍💻 Building & Experimenting
   In addition to these projects, I’m also involved in:
   Brand Development: Assisting in the creation of a coffee brand from scratch—exploring everything from brand identity to digital marketing, plus developing a future website.
