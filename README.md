@@ -86,66 +86,7 @@ I'm a **BSc Honours Computing Science (AI)** student at the **University of Albe
 
 ---
 
-##  Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-###  CaterBridge — Cloud Marketplace
-> React · Node.js · AWS EC2 · Docker · Nginx · Prometheus · Grafana · MongoDB
-
-A production-grade catering marketplace with enterprise observability baked in.
-
-- ⚡ Sub-2s page loads, **99.9% uptime** on AWS EC2 + Nginx + PM2
--  **70% faster** incident detection via Prometheus + Grafana dashboards
--  Gemini AI chatbot + Stripe payments via REST APIs
--  Swagger/OpenAPI docs → **80% faster** developer onboarding
-
-</td>
-<td width="50%" valign="top">
-
-###  Papo AI — Serverless Culinary Assistant
-> React (Vite) · AWS Amplify · AppSync · Cognito · Bedrock (Claude 3) · Grafana Faro
-
-Fully serverless AI assistant for personalized recipe recommendations.
-
--  Serverless on **AWS Amplify** with AppSync GraphQL + Cognito auth
--  **Amazon Bedrock (Claude 3 Sonnet)** for real-time recommendations
--  **CI/CD** via GitHub Actions — zero-downtime automated deployments
--  Core Web Vitals + user traces monitored with **Grafana Faro**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  ShelfOut — AI Book Discovery
-> Python · Node.js · Computer Vision · Docker · Kubernetes · REST APIs
-
-Transform a photo of your bookshelf into personalized reading recommendations.
-
--  **Computer vision** pipeline to identify books from shelf images
--  AI-driven ranking with metadata enrichment workflows
--  **Containerized** with Docker + Kubernetes for cloud-ready scaling
--  Optimized via caching, rate limiting, and async processing
-
-</td>
-<td width="50%" valign="top">
-
-###  What I'm Building Next
-> Always exploring the edge of what's possible
-
--  Diving deeper into **LLM fine-tuning** and inference optimization
--  Experimenting with **multi-agent AI systems**
--  Building **event-driven microservices** on AWS
--  Research interests: applied ML, distributed systems
-
-</td>
-</tr>
-</table>
-
----
 
 ## GitHub Stats
 
