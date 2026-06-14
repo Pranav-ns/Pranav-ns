@@ -28,7 +28,6 @@
 
 I'm a **BSc Honours Computing Science (AI)** student at the **University of Alberta** , passionate about crafting production-grade systems at the intersection of cloud infrastructure, full-stack development, and applied AI.
 
--  **Maple Leaf Award 2025** recipient — academic excellence, $10,000 scholarship
 -  Currently deepening expertise in **AWS**, **serverless architectures**, and **ML engineering**
 -  Based in **Edmonton, Canada** | Available globally
 
