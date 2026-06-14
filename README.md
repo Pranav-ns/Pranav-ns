@@ -3,17 +3,6 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=200&section=header&text=Pranav%20Namah%20Satish&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/pranav-ns-/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:pns@ualberta.ca">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-
-
-<br/><br/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=BSc+Computing+Science+(AI)+%40+UAlberta;Building+cloud-native+%26+AI-powered+apps;AWS+%7C+Docker+%7C+Kubernetes+%7C+React;Open+to+4%2F8%2F12-month+internships+%F0%9F%9A%80" alt="Typing SVG" />
