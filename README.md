@@ -166,30 +166,8 @@ Transform a photo of your bookshelf into personalized reading recommendations.
 
 ---
 
-##  Achievements & Highlights
 
-<div align="center">
 
-|  Award |  Details |
-|---|---|
-|  **Maple Leaf Award 2025** | Academic Excellence · University of Alberta · $10,000 |
-|  **Tech Mentor** | Global Academy of Technology (2024–2025) — Theory of Computation, DSA |
-|  **Co-Facilitator** | International student integration & cross-cultural community building |
-
-</div>
-
----
-
-##  Experience
-
-**Technical Support Intern** @ [Joint Role Media](https://jointrole.media) *(Mar 2025 – Aug 2025)*
-> Bangalore, India
-
-- Diagnosed and resolved software issues end-to-end; authored knowledge-base articles that reduced repeat ticket volume
-- Introduced customers to software platforms, minimizing early churn
-- Escalated critical incidents with full technical context for rapid cross-functional resolution
-
----
 
 ##  Let's Connect
 
