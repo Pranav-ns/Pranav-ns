@@ -24,22 +24,22 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 > *"I build things that are fast, cloud-native, and actually useful — not just technically impressive on paper."*
 
-I'm a **BSc Honours Computing Science (AI)** student at the **University of Alberta** 🍁, passionate about crafting production-grade systems at the intersection of cloud infrastructure, full-stack development, and applied AI.
+I'm a **BSc Honours Computing Science (AI)** student at the **University of Alberta** , passionate about crafting production-grade systems at the intersection of cloud infrastructure, full-stack development, and applied AI.
 
-- 🎓 **Maple Leaf Award 2025** recipient — academic excellence, $10,000 scholarship
-- ☁️ Currently deepening expertise in **AWS**, **serverless architectures**, and **ML engineering**
-- 🤝 Open to **Software Engineering**, **Cloud/DevOps**, **AI/ML**, and **research internships** (4, 8, or 12 months)
-- 📍 Based in **Bangalore, India** | Available globally
+-  **Maple Leaf Award 2025** recipient — academic excellence, $10,000 scholarship
+-  Currently deepening expertise in **AWS**, **serverless architectures**, and **ML engineering**
+-  Open to **Software Engineering**, **Cloud/DevOps**, **AI/ML**, and **research internships** (4, 8, or 12 months)
+-  Based in **Bangalore, India** | Available globally
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -47,7 +47,7 @@ I'm a **BSc Honours Computing Science (AI)** student at the **University of Albe
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
-### 🌐 Frontend
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -55,7 +55,7 @@ I'm a **BSc Honours Computing Science (AI)** student at the **University of Albe
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -64,7 +64,7 @@ I'm a **BSc Honours Computing Science (AI)** student at the **University of Albe
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -74,7 +74,7 @@ I'm a **BSc Honours Computing Science (AI)** student at the **University of Albe
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-### 📊 Observability & AI
+###  Observability & AI
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
@@ -86,60 +86,60 @@ I'm a **BSc Honours Computing Science (AI)** student at the **University of Albe
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ CaterBridge — Cloud Marketplace
+###  CaterBridge — Cloud Marketplace
 > React · Node.js · AWS EC2 · Docker · Nginx · Prometheus · Grafana · MongoDB
 
 A production-grade catering marketplace with enterprise observability baked in.
 
 - ⚡ Sub-2s page loads, **99.9% uptime** on AWS EC2 + Nginx + PM2
-- 📉 **70% faster** incident detection via Prometheus + Grafana dashboards
-- 🤖 Gemini AI chatbot + Stripe payments via REST APIs
-- 📖 Swagger/OpenAPI docs → **80% faster** developer onboarding
+-  **70% faster** incident detection via Prometheus + Grafana dashboards
+-  Gemini AI chatbot + Stripe payments via REST APIs
+-  Swagger/OpenAPI docs → **80% faster** developer onboarding
 
 </td>
 <td width="50%" valign="top">
 
-### 🍳 Papo AI — Serverless Culinary Assistant
+###  Papo AI — Serverless Culinary Assistant
 > React (Vite) · AWS Amplify · AppSync · Cognito · Bedrock (Claude 3) · Grafana Faro
 
 Fully serverless AI assistant for personalized recipe recommendations.
 
-- ☁️ Serverless on **AWS Amplify** with AppSync GraphQL + Cognito auth
-- 🤖 **Amazon Bedrock (Claude 3 Sonnet)** for real-time recommendations
-- 🔄 **CI/CD** via GitHub Actions — zero-downtime automated deployments
-- 📊 Core Web Vitals + user traces monitored with **Grafana Faro**
+-  Serverless on **AWS Amplify** with AppSync GraphQL + Cognito auth
+-  **Amazon Bedrock (Claude 3 Sonnet)** for real-time recommendations
+-  **CI/CD** via GitHub Actions — zero-downtime automated deployments
+-  Core Web Vitals + user traces monitored with **Grafana Faro**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 ShelfOut — AI Book Discovery
+###  ShelfOut — AI Book Discovery
 > Python · Node.js · Computer Vision · Docker · Kubernetes · REST APIs
 
 Transform a photo of your bookshelf into personalized reading recommendations.
 
-- 👁️ **Computer vision** pipeline to identify books from shelf images
-- 🧠 AI-driven ranking with metadata enrichment workflows
-- 🐳 **Containerized** with Docker + Kubernetes for cloud-ready scaling
-- ⚡ Optimized via caching, rate limiting, and async processing
+-  **Computer vision** pipeline to identify books from shelf images
+-  AI-driven ranking with metadata enrichment workflows
+-  **Containerized** with Docker + Kubernetes for cloud-ready scaling
+-  Optimized via caching, rate limiting, and async processing
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 What I'm Building Next
+###  What I'm Building Next
 > Always exploring the edge of what's possible
 
-- 🔬 Diving deeper into **LLM fine-tuning** and inference optimization
-- 🏗️ Experimenting with **multi-agent AI systems**
-- 📡 Building **event-driven microservices** on AWS
-- 🎓 Research interests: applied ML, distributed systems
+-  Diving deeper into **LLM fine-tuning** and inference optimization
+-  Experimenting with **multi-agent AI systems**
+-  Building **event-driven microservices** on AWS
+-  Research interests: applied ML, distributed systems
 
 </td>
 </tr>
@@ -147,7 +147,7 @@ Transform a photo of your bookshelf into personalized reading recommendations.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -166,21 +166,21 @@ Transform a photo of your bookshelf into personalized reading recommendations.
 
 ---
 
-## 🏆 Achievements & Highlights
+##  Achievements & Highlights
 
 <div align="center">
 
-| 🏅 Award | 📋 Details |
+|  Award |  Details |
 |---|---|
-| 🍁 **Maple Leaf Award 2025** | Academic Excellence · University of Alberta · $10,000 |
-| 👨‍🏫 **Tech Mentor** | Global Academy of Technology (2024–2025) — Theory of Computation, DSA |
-| 🌍 **Co-Facilitator** | International student integration & cross-cultural community building |
+|  **Maple Leaf Award 2025** | Academic Excellence · University of Alberta · $10,000 |
+|  **Tech Mentor** | Global Academy of Technology (2024–2025) — Theory of Computation, DSA |
+|  **Co-Facilitator** | International student integration & cross-cultural community building |
 
 </div>
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Technical Support Intern** @ [Joint Role Media](https://jointrole.media) *(Mar 2025 – Aug 2025)*
 > Bangalore, India
@@ -191,7 +191,7 @@ Transform a photo of your bookshelf into personalized reading recommendations.
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
