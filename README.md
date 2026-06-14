@@ -29,7 +29,7 @@
 I'm a **BSc Honours Computing Science (AI)** student at the **University of Alberta** , passionate about crafting production-grade systems at the intersection of cloud infrastructure, full-stack development, and applied AI.
 
 -  Currently deepening expertise in **AWS**, **serverless architectures**, and **ML engineering**
--  Based in **Edmonton, Canada** | Available globally
+-  Based in **Edmonton, Canada** 
 
 ---
 
