@@ -82,11 +82,11 @@ I'm a **BSc Honours Computing Science (AI)** student at the **University of Albe
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavNamahSatish&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-ns&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavNamahSatish&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=0ea5e9&point=f59e0b" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-ns&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=0ea5e9&point=f59e0b" />
 
 </div>
 
