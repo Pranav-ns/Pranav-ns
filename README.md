@@ -30,8 +30,7 @@ I'm a **BSc Honours Computing Science (AI)** student at the **University of Albe
 
 -  **Maple Leaf Award 2025** recipient — academic excellence, $10,000 scholarship
 -  Currently deepening expertise in **AWS**, **serverless architectures**, and **ML engineering**
--  Open to **Software Engineering**, **Cloud/DevOps**, **AI/ML**, and **research internships** (4, 8, or 12 months)
--  Based in **Bangalore, India** | Available globally
+-  Based in **Edmonton, Canada** | Available globally
 
 ---
 
